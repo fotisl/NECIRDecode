@@ -1,0 +1,17 @@
+########################################
+# Syntax Coloring Map For NEC IR Decoder
+########################################
+
+########################################
+# Datatypes (KEYWORD1)
+########################################
+
+NECIRDecode                 KEYWORD1
+
+########################################
+# Methods and Functions (KEYWORD2)
+########################################
+
+init                        KEYWORD2
+stateMachine                KEYWORD2
+getNext                     KEYWORD2

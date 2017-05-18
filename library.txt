@@ -1,0 +1,9 @@
+name=NECIRDecode
+version=1.0.0
+author=Fotis Loukos <me@fotisl.com>
+maintainer=Fotis Loukos <me@fotisl.com>
+sentence=NEC Infrared Decoder library
+paragraph=A library for decoding remote control codes sent using the NEC IR transmission protocol
+category=Communications
+url=https://github.com/fotisl/NECIRDecode
+architectures=STM32F1
